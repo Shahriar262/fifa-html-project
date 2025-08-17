@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+.container{
+  max-width: 1280px;
+  margin: auto;
+}
+
+.btn{
+    background-color: #DD0000;
+    padding: 16px 59px 17px 25px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border: none;
+}
+
+/* banner styles */
+.banner{
+    display: flex;
+    align-items: center;
+    background-color: #161616;
+    color: #ffffff;
+    border-radius: 15px;
+    gap: 81px;
+    overflow: hidden;
+}
+
+.banner h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.banner p{
+    font-size: 13px;
+    color: #FFFFFF;
+    margin: 20px 0;
+}
+
+.banner-content{
+    padding-left: 120px;
+    padding-top: 111px;
+    padding-bottom: 111px;
+}
+
+.banner-img{
+   padding-top: 30px;
+   width: 621px;
+   height: 642px;
+   margin-left: auto;
+   margin-right: 17px;
+}
+
+
